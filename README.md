@@ -1,5 +1,6 @@
 # LinkTune Privacy Policy
 **Last updated:** July 24, 2025
+
 **Simple Summary:** LinkTune does not collect, store, or transmit any of your personal data. Everything stays on your Mac.
 
 ## Data Collection
