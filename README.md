@@ -28,6 +28,4 @@ We do not share, sell, or transmit any data about you or your usage to third par
 If we make any changes to this privacy policy, we will update this page. Since LinkTune doesn't collect data about you, we have no way to notify you directly of changes.
 
 ## Contact Information
-If you have any questions about this privacy policy, please contact us at:
-**Email:** [l.j.ageloni@gmail.com](mailto:l.j.ageloni@gmail.com)
-**App:** LinkTune for macOS
+If you have any questions about this privacy policy, please contact us at: [l.j.ageloni@gmail.com](mailto:l.j.ageloni@gmail.com)
